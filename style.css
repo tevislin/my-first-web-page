@@ -1,6 +1,8 @@
 h1 {
   color: blue;
   text-align: center;
+  font-size: 60px;
+  font-style: italic;
 }
 h2 {
   color: green;
@@ -14,4 +16,16 @@ p {
 
 ul {
   line-height: 40px;
+}
+
+body {
+  background-color: red;
+}
+
+strong {
+  font-style: italic;
+}
+
+em {
+  font-weight: bold;
 }
